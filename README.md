@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://aktautouta.github.io/.github/getbackuppro">  
+<a href="https://salidorandee.github.io/.github/get-backup-pro">  
 <img src="https://img.shields.io/badge/GET_Get_Backup_Pro-darkgreen?style=for-the-badge&logo=apple" alt="GET Get Backup Pro">  
 </a>  
 </div>  
